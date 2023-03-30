@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "UBIF lead respose",
+    "version": "1.0",
+    "description": "A Chrome extension to add easy copy paste lead respose",
+    "permissions": [
+        "clipboardWrite"
+    ],
+    "browser_action": {
+        "default_title": "Copy to Clipboard",
+        "default_popup": "popup.html"
+    }
+}
