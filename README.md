@@ -1,5 +1,5 @@
 # UBIF-Lead-Response-Extenstion
- Simple little chrome extenstion to copy paste lead response easier
+Simple little chrome extenstion to copy paste lead response easier
  
 ## To install your Chrome extension:
 
@@ -8,4 +8,9 @@
 3. Click the "Load unpacked" button and select the folder where you saved your extension.
 4. Your extension should now be loaded. 
 5. Go to the Extenstion button in chrome and look for UBIF lead respone Then you will want to pin that. 
-6. 
+6. Now your ready to copy paste your leads response faster. 
+
+
+
+## Future updates
+- Add a properties page so you can add your own lead responses.
