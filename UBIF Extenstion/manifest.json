@@ -7,7 +7,7 @@
         "clipboardWrite"
     ],
     "browser_action": {
-        "default_title": "Copy to Clipboard",
+        "default_title": "UBIF lead respose",
         "default_popup": "popup.html"
     }
 }
