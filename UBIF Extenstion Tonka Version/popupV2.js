@@ -83,7 +83,6 @@ document.addEventListener('DOMContentLoaded', function () {
       });
   });
 
-
   var MailIn = document.getElementById('Mail in repair arrived');
   MailIn.addEventListener('click', function () {
     fetch('data.json')
